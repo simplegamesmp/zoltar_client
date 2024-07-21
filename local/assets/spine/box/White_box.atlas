@@ -1,0 +1,69 @@
+
+White_box.png
+size: 1200,1200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 711, 462
+  size: 211, 425
+  orig: 212, 428
+  offset: 0, 3
+  index: -1
+Layer 2
+  rotate: false
+  xy: 530, 499
+  size: 179, 434
+  orig: 179, 435
+  offset: 0, 0
+  index: -1
+ao
+  rotate: true
+  xy: 737, 675
+  size: 523, 400
+  orig: 528, 409
+  offset: 2, 2
+  index: -1
+bow
+  rotate: true
+  xy: 960, 208
+  size: 252, 103
+  orig: 254, 105
+  offset: 2, 1
+  index: -1
+box
+  rotate: false
+  xy: 2, 510
+  size: 526, 423
+  orig: 536, 423
+  offset: 8, 0
+  index: -1
+cap
+  rotate: false
+  xy: 381, 49
+  size: 542, 178
+  orig: 618, 182
+  offset: 48, 4
+  index: -1
+reflection
+  rotate: true
+  xy: 2, 2
+  size: 506, 377
+  orig: 510, 381
+  offset: 2, 2
+  index: -1
+sdw
+  rotate: false
+  xy: 381, 229
+  size: 577, 231
+  orig: 581, 235
+  offset: 2, 2
+  index: -1
+sdw_2
+  rotate: false
+  xy: 2, 935
+  size: 733, 263
+  orig: 737, 268
+  offset: 2, 3
+  index: -1
