@@ -1,250 +1,250 @@
 
 Pink_box.png
-size: 1345,1345
+size: 1346,1346
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 02
-  rotate: true
-  xy: 918, 728
+  rotate: false
+  xy: 1059, 445
   size: 180, 176
   orig: 182, 178
   offset: 1, 1
   index: -1
 2_16
-  rotate: true
-  xy: 434, 3
+  rotate: false
+  xy: 1203, 322
   size: 70, 56
   orig: 74, 60
   offset: 2, 2
   index: -1
 2_17
   rotate: true
-  xy: 1259, 453
+  xy: 1275, 304
   size: 70, 50
   orig: 74, 54
   offset: 2, 2
   index: -1
 2_18
-  rotate: false
-  xy: 365, 8
+  rotate: true
+  xy: 1278, 376
   size: 67, 65
   orig: 71, 69
   offset: 2, 2
   index: -1
 2_19
-  rotate: true
-  xy: 1100, 117
+  rotate: false
+  xy: 1126, 329
   size: 75, 49
   orig: 79, 53
   offset: 2, 2
   index: -1
 2_20
   rotate: false
-  xy: 630, 45
+  xy: 289, 18
   size: 71, 56
   orig: 75, 60
   offset: 2, 2
   index: -1
 2_21
   rotate: true
-  xy: 557, 44
+  xy: 362, 17
   size: 57, 71
   orig: 61, 75
   offset: 2, 2
   index: -1
 2_glow
   rotate: false
-  xy: 741, 229
+  xy: 741, 230
   size: 289, 273
   orig: 293, 277
   offset: 2, 2
   index: -1
 2_sdw
   rotate: true
-  xy: 1096, 706
+  xy: 1078, 732
   size: 322, 243
   orig: 326, 247
   offset: 2, 2
   index: -1
 3_17
   rotate: false
-  xy: 1009, 45
+  xy: 1126, 380
   size: 74, 63
   orig: 78, 67
   offset: 2, 2
   index: -1
 3_18
   rotate: false
-  xy: 1151, 141
+  xy: 1192, 264
   size: 70, 56
   orig: 74, 60
   offset: 2, 2
   index: -1
 3_19
   rotate: true
-  xy: 1259, 525
+  xy: 435, 4
   size: 70, 55
   orig: 74, 59
   offset: 2, 2
   index: -1
 3_20
-  rotate: false
-  xy: 492, 34
+  rotate: true
+  xy: 1123, 264
   size: 63, 67
   orig: 67, 71
   offset: 2, 2
   index: -1
 3_21
   rotate: false
-  xy: 289, 10
+  xy: 1202, 380
   size: 74, 63
   orig: 78, 67
   offset: 2, 2
   index: -1
 3_glow
   rotate: false
-  xy: 2, 192
+  xy: 2, 193
   size: 374, 338
   orig: 378, 342
   offset: 2, 2
   index: -1
 3_sdw
   rotate: false
-  xy: 378, 238
+  xy: 378, 239
   size: 361, 264
   orig: 372, 284
   offset: 0, 0
   index: -1
 4_7
-  rotate: false
-  xy: 492, 103
+  rotate: true
+  xy: 924, 531
   size: 229, 133
   orig: 233, 137
   offset: 2, 2
   index: -1
 4_Layer 1
   rotate: false
-  xy: 1138, 199
+  xy: 1032, 351
   size: 92, 92
   orig: 96, 96
   offset: 2, 2
   index: -1
 4_Layer 3
   rotate: false
-  xy: 924, 507
+  xy: 1241, 445
   size: 94, 70
   orig: 98, 74
   offset: 2, 2
   index: -1
 4_sh
-  rotate: false
-  xy: 1032, 194
+  rotate: true
+  xy: 1241, 517
   size: 104, 97
   orig: 108, 101
   offset: 2, 2
   index: -1
 GodRays
   rotate: false
-  xy: 924, 579
+  xy: 918, 762
   size: 147, 147
   orig: 147, 147
   offset: 0, 0
   index: -1
 L_coins_4_1
-  rotate: false
-  xy: 723, 2
-  size: 284, 225
+  rotate: true
+  xy: 1111, 1056
+  size: 288, 229
   orig: 288, 229
-  offset: 2, 2
+  offset: 0, 0
   index: -1
 L_coins_4_2
-  rotate: true
-  xy: 1032, 293
+  rotate: false
+  xy: 807, 3
   size: 284, 225
   orig: 288, 229
   offset: 2, 2
   index: -1
 Layer 1
   rotate: true
-  xy: 488, 697
+  xy: 488, 698
   size: 211, 428
   orig: 212, 428
   offset: 0, 0
   index: -1
 Layer 2
   rotate: true
-  xy: 488, 504
+  xy: 488, 505
   size: 191, 434
   orig: 204, 444
   offset: 13, 4
   index: -1
 Layer 5
   rotate: true
-  xy: 179, 18
+  xy: 179, 19
   size: 55, 108
   orig: 63, 175
   offset: 3, 5
   index: -1
 Layer 6
   rotate: true
-  xy: 2, 10
+  xy: 2, 11
   size: 63, 175
   orig: 63, 175
   offset: 0, 0
   index: -1
 Star_4
   rotate: false
-  xy: 2, 532
+  xy: 2, 533
   size: 484, 386
   orig: 536, 423
   offset: 24, 21
   index: -1
 ao
   rotate: false
-  xy: 2, 75
+  xy: 2, 76
   size: 488, 115
   orig: 528, 409
   offset: 26, 3
   index: -1
 bow
   rotate: false
-  xy: 1073, 597
+  xy: 1059, 623
   size: 254, 107
   orig: 254, 107
   offset: 0, 0
   index: -1
 box
   rotate: false
-  xy: 2, 920
+  xy: 2, 921
   size: 528, 423
   orig: 536, 423
   offset: 6, 0
   index: -1
 cap
   rotate: false
-  xy: 532, 910
+  xy: 532, 911
   size: 544, 200
   orig: 618, 200
   offset: 46, 0
   index: -1
 coin4
-  rotate: true
-  xy: 1111, 1030
+  rotate: false
+  xy: 492, 2
   size: 313, 226
   orig: 313, 229
   offset: 0, 0
   index: -1
 sdw
   rotate: false
-  xy: 532, 1112
+  xy: 532, 1113
   size: 577, 231
   orig: 581, 235
   offset: 2, 2
   index: -1
 star2
   rotate: false
-  xy: 1009, 110
+  xy: 1032, 267
   size: 89, 82
   orig: 89, 82
   offset: 0, 0
