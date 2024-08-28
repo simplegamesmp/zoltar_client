@@ -1,9 +1,0 @@
-1 - Burnout
-2 - Grid
-3 - Overtake
-4 - Pitstop
-5 - Drift
-6 - Drag Racing
-7 - Finish line
-8 - S-curve
-9 - Start
