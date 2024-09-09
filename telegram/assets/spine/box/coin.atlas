@@ -1,0 +1,90 @@
+
+coin.png
+size: 466,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01.svg0001
+  rotate: false
+  xy: 2, 255
+  size: 143, 79
+  orig: 150, 150
+  offset: 3, 29
+  index: -1
+01.svg0002
+  rotate: false
+  xy: 305, 259
+  size: 141, 124
+  orig: 150, 150
+  offset: 4, 9
+  index: -1
+01.svg0003
+  rotate: true
+  xy: 147, 176
+  size: 138, 139
+  orig: 150, 150
+  offset: 8, 9
+  index: -1
+01.svg0004
+  rotate: false
+  xy: 2, 5
+  size: 131, 136
+  orig: 150, 150
+  offset: 15, 14
+  index: -1
+01.svg0005
+  rotate: true
+  xy: 2, 143
+  size: 110, 137
+  orig: 150, 150
+  offset: 29, 13
+  index: -1
+01.svg0006
+  rotate: false
+  xy: 226, 39
+  size: 109, 135
+  orig: 150, 150
+  offset: 29, 15
+  index: -1
+01.svg0007
+  rotate: true
+  xy: 337, 148
+  size: 109, 127
+  orig: 150, 150
+  offset: 26, 20
+  index: -1
+01.svg0008
+  rotate: false
+  xy: 337, 36
+  size: 119, 110
+  orig: 150, 150
+  offset: 15, 25
+  index: -1
+01.svg0009
+  rotate: true
+  xy: 135, 5
+  size: 136, 89
+  orig: 150, 150
+  offset: 4, 28
+  index: -1
+01.svg0010
+  rotate: false
+  xy: 305, 385
+  size: 143, 79
+  orig: 150, 150
+  offset: 3, 29
+  index: -1
+GodRays
+  rotate: false
+  xy: 154, 316
+  size: 149, 148
+  orig: 150, 150
+  offset: 0, 1
+  index: -1
+Star_3
+  rotate: false
+  xy: 2, 336
+  size: 150, 128
+  orig: 150, 128
+  offset: 0, 0
+  index: -1

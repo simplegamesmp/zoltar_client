@@ -1,0 +1,209 @@
+
+wight_box.png
+size: 1269,1269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02
+  rotate: true
+  xy: 1078, 854
+  size: 180, 176
+  orig: 182, 178
+  offset: 1, 1
+  index: -1
+2_16
+  rotate: false
+  xy: 1139, 796
+  size: 70, 56
+  orig: 74, 60
+  offset: 2, 2
+  index: -1
+2_17
+  rotate: true
+  xy: 980, 355
+  size: 70, 50
+  orig: 74, 54
+  offset: 2, 2
+  index: -1
+2_18
+  rotate: true
+  xy: 1202, 1051
+  size: 67, 65
+  orig: 71, 69
+  offset: 2, 2
+  index: -1
+2_19
+  rotate: true
+  xy: 1209, 98
+  size: 75, 49
+  orig: 79, 53
+  offset: 2, 2
+  index: -1
+2_20
+  rotate: true
+  xy: 1022, 779
+  size: 71, 56
+  orig: 75, 60
+  offset: 2, 2
+  index: -1
+2_21
+  rotate: false
+  xy: 1080, 781
+  size: 57, 71
+  orig: 61, 75
+  offset: 2, 2
+  index: -1
+2_glow
+  rotate: false
+  xy: 741, 77
+  size: 289, 273
+  orig: 293, 277
+  offset: 2, 2
+  index: -1
+2_sdw
+  rotate: false
+  xy: 918, 490
+  size: 322, 243
+  orig: 326, 247
+  offset: 2, 2
+  index: -1
+3_17
+  rotate: false
+  xy: 378, 391
+  size: 74, 63
+  orig: 78, 67
+  offset: 2, 2
+  index: -1
+3_18
+  rotate: true
+  xy: 1211, 782
+  size: 70, 56
+  orig: 74, 60
+  offset: 2, 2
+  index: -1
+3_19
+  rotate: false
+  xy: 1032, 53
+  size: 70, 55
+  orig: 74, 59
+  offset: 2, 2
+  index: -1
+3_20
+  rotate: false
+  xy: 915, 358
+  size: 63, 67
+  orig: 67, 71
+  offset: 2, 2
+  index: -1
+3_21
+  rotate: false
+  xy: 258, 51
+  size: 74, 63
+  orig: 78, 67
+  offset: 2, 2
+  index: -1
+3_glow
+  rotate: false
+  xy: 2, 116
+  size: 374, 338
+  orig: 378, 342
+  offset: 2, 2
+  index: -1
+3_sdw
+  rotate: false
+  xy: 378, 86
+  size: 361, 264
+  orig: 372, 284
+  offset: 0, 0
+  index: -1
+GodRays
+  rotate: false
+  xy: 1111, 1120
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 488, 522
+  size: 211, 428
+  orig: 212, 428
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 488, 352
+  size: 168, 425
+  orig: 179, 435
+  offset: 11, 4
+  index: -1
+Layer 5
+  rotate: true
+  xy: 915, 427
+  size: 61, 115
+  orig: 63, 175
+  offset: 2, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 1032, 110
+  size: 63, 175
+  orig: 63, 175
+  offset: 0, 0
+  index: -1
+Star_4
+  rotate: false
+  xy: 2, 456
+  size: 484, 386
+  orig: 536, 423
+  offset: 24, 21
+  index: -1
+ao
+  rotate: false
+  xy: 532, 735
+  size: 488, 115
+  orig: 528, 409
+  offset: 26, 3
+  index: -1
+bow
+  rotate: false
+  xy: 2, 9
+  size: 254, 105
+  orig: 254, 105
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 844
+  size: 528, 423
+  orig: 536, 423
+  offset: 6, 0
+  index: -1
+cap
+  rotate: false
+  xy: 532, 852
+  size: 544, 182
+  orig: 618, 182
+  offset: 46, 0
+  index: -1
+coin4
+  rotate: true
+  xy: 1032, 175
+  size: 313, 226
+  orig: 313, 229
+  offset: 0, 0
+  index: -1
+sdw
+  rotate: false
+  xy: 532, 1036
+  size: 577, 231
+  orig: 581, 235
+  offset: 2, 2
+  index: -1
+star2
+  rotate: false
+  xy: 1111, 1036
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
