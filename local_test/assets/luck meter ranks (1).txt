@@ -1,0 +1,484 @@
+Level 1
+
+Basic Luckster
+
+Level 2
+
+Luck Scout
+
+Level 3
+
+Luck Adept
+
+Level 4
+
+Lucksmith
+
+Level 5
+
+Fortuna Alchemist
+
+Level 6
+
+Fortunator
+
+Level 7
+
+Luck Summoner
+
+Level 8
+
+Luck Luminary
+
+Level 9
+
+Luck Architect
+
+Level 10
+
+Luck Archmage
+
+Level 11
+
+Fate Lord
+
+Level 12
+
+Fateshaper
+
+Level 13
+
+Fate Artisan
+
+Level 14
+
+Chance Visionary
+
+Level 15
+
+Chancelux
+
+Level 16
+
+Chancemperor
+
+Level 17
+
+Fortuna Oracle
+
+Level 18
+
+Luck Emperor
+
+Level 19
+
+God of Luck
+
+Level 20
+
+Fortune Supreme
+
+
+Внизу на всякий случай прикрепляю список вариантов на случай если у нас будет больше званий.
+
+
+Novice of Luck
+Beginner's Fortune
+Luck Learner
+Chance Apprentice
+Fortune Fledgling
+Rookie of Randomness
+Luck Initiate
+Aspiring Luckster
+Fortune Newbie
+Serendipity Starter
+Luckling
+Fledgling of Fate
+Unlucky Underdog
+Lucky Trainee
+Greenhorn of Chance
+Fortuna's Freshman
+Probability Pupil
+Chance Cadet
+Luck Neophyte
+Basic Luckster
+
+Luck Explorer
+Fortune Seeker
+Chance Chaser
+Luck Scout
+Fortune Finder
+Serendipity Searcher
+Junior Luckster
+Luck Dabbler
+Apprentice of Fortune
+Chance Explorer
+Fate Follower
+Budding Luckster
+Fortune Wanderer
+Luck Enthusiast
+Chance Adventurer
+Providence Prowler
+Fledgling of Fortune
+Luck Tinkerer
+Chance Discoverer
+Beginner's Lucksmith
+
+Luck Adept
+Fortune Journeyman
+Chance Navigator
+Lucksmith Apprentice
+Fortune Adventurer
+Serendipity Specialist
+Luck Pathfinder
+Fortuna's Follower
+Chance Challenger
+Fate's Disciple
+Luck Pursuer
+Fortune Tactician
+Luck Voyager
+Chance Tinkerer
+Fate Finder
+Lucky Strider
+Providence Pursuer
+Fortune Handler
+Luck Agent
+Fortune Seeker Pro
+
+Luck Strategist
+Fortune Crafter
+Chance Connoisseur
+Fate's Apprentice
+Luck Practitioner
+Fortune Tactician
+Serendipity Scout
+Luck Engineer
+Fortuna's Navigator
+Chance Architect
+Fate Explorer
+Luck Artisan
+Fortune Pathfinder
+Chance Alchemist
+Providence Player
+Luck Technician
+Fate's Advocate
+Fortune Artisan
+Lucky Innovator
+Serendipity Expert
+
+Lucksmith
+Fortunaut
+Chance Wrangler
+Fatesmith
+Luckmancer
+Fortuna Fiddler
+Serendipiter
+Lucky Charmer
+Fortunado
+Chance Crafter
+Fate Navigator
+Luckevator
+Fortune Whiz
+Chancetron
+Providence Pilot
+Luckmonger
+Fate Fiddler
+Fortune Fabricator
+Lucky Tactician
+Serendipinator
+
+Lucksmith Maestro
+Fortunista
+Chance Virtuoso
+Fatestronaut
+Lucky Conductor
+Fortuna Alchemist
+Serendipitist
+Luckstronaut
+Fortune Sculptor
+Chance Maestro
+Fate Forger
+Lucktician
+Fortune Maestro
+Chancerino
+Providence Prodigy
+Luck Oracle
+Fate Fabricator
+Fortune Juggler
+Lucky Maverick
+Serendipitator
+
+Luck Luminary
+Fortune Fusionist
+Chance Magician
+Fate Fusionist
+Lucky Maestro
+Fortunetron
+Serendipity Scribe
+Lucksmith Virtuoso
+Fortune Whisperer
+Chance Virtuoso
+Fate Artisan
+Luckmancer Supreme
+Fortuna Maestro
+Chancellator
+Providence Wizard
+Luck Luminaire
+Fate Conductor
+Fortune Enchanter
+Lucky Innovator
+Serendipioneer
+
+Lucknado
+Fortuna Magus
+Chance Whisperer
+Fate Maestro
+Lucky Virtuoso
+Fortuneteller
+Serendipity Savant
+Lucklord
+Fortune Fusionist
+Chance Alchemist
+Fatesmith
+Luckologist
+Fortunator
+Chancemancer
+Providence Alchemist
+Luck Summoner
+Fate Alchemist
+Fortune Magician
+Lucky Sage
+Serendipitist
+
+Lucklord Supreme
+Fortuneseer
+Chance Sorcerer
+Fate Maestro
+Luckonaut
+Fortunaut
+Serendipity Maestro
+Luck Virtuoso
+Fortune Conjuror
+Chancemaster
+Fate Wizard
+Luckmancer Supreme
+Fortunemancer
+Chancetician
+Providence Maestro
+Luck Alchemist
+Fate Magician
+Fortune Adept
+Lucky Wizard
+Serendipity Conjuror
+
+Luck Baron
+Fortuna Grandmaster
+Chance Sorcerer
+Fate Grandmaster
+Luck Architect
+Fortune Oracle
+Serendipity Sage
+Luckmaster
+Fortune Alchemist
+Chancellor of Chance
+Fate Enchanter
+Luck Grandmaster
+Fortuneforger
+Chancemaster General
+Providence Virtuoso
+Luck Visionary
+Fate Conjuror
+Fortune Oracle
+Lucky Mastermind
+Serendipity Wizard
+
+Luck Emperor
+Fortuna Overlord
+Chance Grandmaster
+Fate Overlord
+Luck Archmage
+Fortune Sage
+Serendipity Sovereign
+Luck Oracle
+Fortune Magus
+Chancellor of Luck
+Fate Maestro Supreme
+Luck Supreme
+Fortune Supreme
+Chance Demiurge
+Providence Patriarch
+Luck Overlord
+Fate Oracle
+Fortune Titan
+Lucky Deity
+Serendipity Archmage
+
+Luck Titan
+Fortuna Monarch
+Chance Demiurge
+Fate Titan
+Luck Oracle Supreme
+Fortune Deity
+Serendipity Titan
+Luck Sovereign
+Fortune Demiurge
+Chancellor of Fortune
+Fate Lord
+Luck Supreme Overlord
+Fortune Archmage
+Chance Sovereign
+Providence Archmage
+Luck Diviner
+Fate Sovereign
+Fortune Ruler
+Lucky Archon
+Serendipity Deity
+
+Luck Deity
+Fortuna Oracle
+Chance Sovereign
+Fate Deity
+Luck Archon
+Fortune Immortal
+Serendipity Overlord
+Luck Demiurge
+Fortune Monarch
+Chancellor of Destiny
+Fate Oracle Supreme
+Luck Celestial
+Fortune Diviner
+Chance Immortal
+Providence Deity
+Luck Transcendent
+Fate Demiurge
+Fortune Archon
+Lucky Divinity
+Serendipity Supreme
+
+Lucktician Supreme
+Fortunarch
+Chancelord
+Fatelord
+Luckomancer
+Fortunavisor
+Serendivine
+Luckocrat
+Fateshaper
+Chancemaster
+Luckdivine
+Fateweaver
+Fortunificent
+Chancetron
+Providentor
+Luckwright
+Fortuneforge
+Chancetician
+Lucktimate
+Serenlord
+
+Luckemperor
+Fortunalith
+Chancetemplar
+Fatechitect
+Luckever
+Fortunator
+Serendiviner
+Luckinfinity
+Fatevoker
+Chancemancer
+Lucktropolis
+Fatefinity
+Fortunaught
+Chancetitan
+Providarch
+Luckiverse
+Fortunaxis
+Chancelith
+Luckadian
+Serenmaster
+
+
+Luckalith
+Fortunesis
+Chancemagus
+Fatedom
+Luckendary
+Fortunatrix
+Serenmaster
+Luckificent
+Fatewielder
+Chancelore
+Luckasaurus
+Fatesynthesis
+Fortunus
+Chancetrix
+Providenigma
+Luckonomicon
+Fortuniverse
+Chancedom
+Luckolore
+Serenlith
+
+Luckalyst
+Fortunex
+Chancepire
+Fatedeluxe
+Lucknirvana
+Fortunomancer
+Serendipityx
+Luckstral
+Fatemancer
+Chancelithic
+Luckronaut
+Fatezenith
+Fortunesis
+Chancelux
+Providynasty
+Luckology
+Fortunelith
+Chancelithium
+Luckra
+Serendynasty
+
+Luck Sage
+Fortunator
+Chance Monarch
+Fate Weaver
+Luck Mastermind
+Fortune Architect
+Serendipity Oracle
+Luck Virtuoso
+Fate Artisan
+Chance Conqueror
+Luck Luminary
+Fortuna Whisperer
+Chancetician
+Fate Navigator
+Luck Enchanter
+Fortune Visionary
+Providence Artisan
+Luck Bringer
+Chance Visionary
+Serendipity Savant
+
+Luck Ascendant
+Fortunetician
+Chance Overlord
+Fate Conductor
+Luck Master
+Fortuna Oracle
+Serendipity Maestro
+Luck Chancellor
+Fate Sage
+Chance Virtuoso
+Luck Enchanter
+Fortunamancer
+Chancelord
+Fate Diviner
+Luck Alchemist
+Fortune Weaver
+Providence Luminary
+Luck Magus
+Chance Sovereign
+Serenmaster
+
